@@ -2,7 +2,8 @@
 
 This project analyzes customer purchasing patterns using the **Market Basket Analysis (MBA)** technique on a grocery dataset. The goal is to identify frequently bought item combinations and uncover hidden relationships between products to help businesses improve product placement, cross-selling strategies, and marketing decisions.
 
-![Association Rules Graph](images/association_rules.png)
+<img width="1237" height="561" alt="image" src="https://github.com/user-attachments/assets/c1c81497-2e50-48b7-a728-32b0fd97ada8" />
+
 
 ## Key Objectives
 
